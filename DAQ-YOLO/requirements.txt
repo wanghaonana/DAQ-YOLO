@@ -1,0 +1,4 @@
+torch>=1.13
+torchvision>=0.14
+pytest>=7.0
+# Use the legacy Ultralytics YOLOv8 fork that provides ultralytics.yolo.*

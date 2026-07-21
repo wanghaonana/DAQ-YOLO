@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the DAQ-YOLO manuscript and this repository."
+title: "DAQ-YOLO Paper-aligned Components"
+type: software
+version: 0.1.0
+license: GPL-3.0-or-later
+authors:
+  - family-names: "He"
+    given-names: "Xiongwei"
+  - family-names: "Wang"
+    given-names: "Haonan"
+repository-code: "https://github.com/OWNER/DAQ-YOLO"
